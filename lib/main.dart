@@ -1,6 +1,5 @@
 import 'package:finayo_assignment/ui/screen_alpha.dart';
 import 'package:flutter/material.dart';
-import 'dart:io';
 
 void main() {
   runApp(const LoginPage());
